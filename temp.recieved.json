@@ -1,0 +1,63 @@
+[
+    {
+      "option_number": 8,
+      "Reason": "Dead code (commented out and irrelevant)",
+      "start_line": 280,
+      "end_line": 294
+    },
+    {
+      "option_number": 5,
+      "Reason": "Dead code (repeated condition check)",
+      "start_line": 228,
+      "end_line": 235
+    },
+    {
+      "option_number": 10,
+      "Reason": "Redundant concatenation of string literals",
+      "start_line": 218,
+      "end_line": 218
+    },
+    {
+      "option_number": 7,
+      "Reason": "Empty method implementation",
+      "start_line": 147,
+      "end_line": 147
+    },
+    {
+      "option_number": 6,
+      "Reason": "Empty method implementation",
+      "start_line": 133,
+      "end_line": 133
+    },
+    {
+      "option_number": 9,
+      "Reason": "Redundant concatenation of string literals",
+      "start_line": 72,
+      "end_line": 72
+    },
+    {
+      "option_number": 4,
+      "Reason": "Comment with no meaningful content",
+      "start_line": 59,
+      "end_line": 59
+    },
+    {
+      "option_number": 3,
+      "Reason": "Comment restating variable name",
+      "start_line": 54,
+      "end_line": 54
+    },
+    {
+      "option_number": 2,
+      "Reason": "Comment restating variable name",
+      "start_line": 50,
+      "end_line": 50
+    },
+    {
+      "option_number": 1,
+      "Reason": "Empty comment",
+      "start_line": 46,
+      "end_line": 47
+    }
+  ]
+  
